@@ -1,0 +1,8 @@
+{
+  "name": "AquaGuard Rural",
+  "description": "A mobile-first application for monitoring water usage and reporting leakages in rural areas.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
